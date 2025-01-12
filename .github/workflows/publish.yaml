@@ -3,7 +3,7 @@ name: Build, Test, and Publish Package
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: '20'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@Netlabs-Australia-Pty-Ltd'
+          scope: '@leocodeio-njs'
       
       - name: Install dependencies
         run: npm install
@@ -51,7 +51,7 @@ jobs:
         with:
           node-version: '20'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@Netlabs-Australia-Pty-Ltd'
+          scope: '@leocodeio-njs'
       
       - name: Download build artifacts
         uses: actions/download-artifact@v4
