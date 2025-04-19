@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/leocodeio-njs/njs-config/compare/v1.0.1...v1.0.2) (2025-04-19)
+
+
+### Performance Improvements
+
+* **bootstrap:** bootstrap ([f95743c](https://github.com/leocodeio-njs/njs-config/commit/f95743c1b39d9509593c72460f5b419e3a9ced42))
+
 ## [1.0.1](https://github.com/leocodeio-njs/njs-config/compare/v1.0.0...v1.0.1) (2025-04-19)
 
 
