@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/leocodeio-njs/njs-config/compare/v1.0.4...v1.0.5) (2025-04-20)
+
+
+### Performance Improvements
+
+* **pack erors:** pack erors ([4966f66](https://github.com/leocodeio-njs/njs-config/commit/4966f6633b3ad1aa8ecb6d9823931f0c002ab7e6))
+
 ## [1.0.4](https://github.com/leocodeio-njs/njs-config/compare/v1.0.3...v1.0.4) (2025-04-20)
 
 
