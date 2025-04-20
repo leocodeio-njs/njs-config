@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/leocodeio-njs/njs-config/compare/v1.0.3...v1.0.4) (2025-04-20)
+
+
+### Performance Improvements
+
+* **peer deps:** peer deps ([924bfac](https://github.com/leocodeio-njs/njs-config/commit/924bfac8f54280fde258327d79d5ad6ab5e52505))
+
 ## [1.0.3](https://github.com/leocodeio-njs/njs-config/compare/v1.0.2...v1.0.3) (2025-04-20)
 
 
