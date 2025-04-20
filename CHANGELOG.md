@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/leocodeio-njs/njs-config/compare/v1.0.2...v1.0.3) (2025-04-20)
+
+
+### Performance Improvements
+
+* **apckage:** apckage ([93e3db2](https://github.com/leocodeio-njs/njs-config/commit/93e3db25ff1f7d97577bbeb150db4df9120e0198))
+
 ## [1.0.2](https://github.com/leocodeio-njs/njs-config/compare/v1.0.1...v1.0.2) (2025-04-19)
 
 
