@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/leocodeio-njs/njs-config/compare/v1.0.9...v1.0.10) (2025-04-21)
+
+
+### Performance Improvements
+
+* **working as exp:** working as exp ([0c037dd](https://github.com/leocodeio-njs/njs-config/commit/0c037ddd3ee8fa5b296e88a6d97ab810b4952203))
+
 ## [1.0.9](https://github.com/leocodeio-njs/njs-config/compare/v1.0.8...v1.0.9) (2025-04-21)
 
 
