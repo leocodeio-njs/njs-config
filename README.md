@@ -1,7 +1,20 @@
 #### Config Module
 
+**Dependencies**
+
+To use this package, you need to install the following dependencies:
+
+- `@leocodeio-njs/njs-config` (this package)
+- `@nestjs/config`
+- `@nestjs/common`
+- `@nestjs/core`
+- `reflect-metadata`
+- `rxjs`
+
+You can install them using your preferred package manager. For example, with pnpm:
+
 ```bash
-pnpm add @leocodeio-njs/njs-config
+pnpm add @leocodeio-njs/njs-config @nestjs/config @nestjs/common @nestjs/core @nestjs/swaggger helmet express-basic-auth joi class-validator class-transformer
 ```
 
 ```typescript

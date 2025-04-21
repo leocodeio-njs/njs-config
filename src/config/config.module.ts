@@ -17,7 +17,7 @@ import Joi from 'joi';
         NODE_ENV: Joi.string()
           .valid('development', 'production', 'test')
           .default('development'),
-        PORT: Joi.number().default(3000),
+        PORT: Joi.number().default(3000).required(),
 
         // Database Configuration
         DB_HOST: Joi.string().required(),
@@ -26,6 +26,12 @@ import Joi from 'joi';
         DB_PASSWORD: Joi.string().required(),
         DB_DATABASE: Joi.string().required(),
         DB_SCHEMA: Joi.string().required(),
+
+        // SWAGGER_ROUTE and APP DETAILS
+
+        SWAGGER_ROUTE: Joi.string().default('/api-docs').required(),
+        SWAGGER_PASSWORD: Joi.string().default('admin').required(),
+        APP_NAME: Joi.string().default('MyApp').required(),
       }),
     }),
   ],
