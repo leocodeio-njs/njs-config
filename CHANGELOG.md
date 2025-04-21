@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/leocodeio-njs/njs-config/compare/v1.0.6...v1.0.7) (2025-04-21)
+
+
+### Performance Improvements
+
+* **package versions updated:** package versions updated ([cb9cfa8](https://github.com/leocodeio-njs/njs-config/commit/cb9cfa82429cf22291d6d8a92210dece76545be5))
+
 ## [1.0.6](https://github.com/leocodeio-njs/njs-config/compare/v1.0.5...v1.0.6) (2025-04-20)
 
 
