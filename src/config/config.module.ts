@@ -29,9 +29,9 @@ import Joi from 'joi';
 
         // SWAGGER_ROUTE and APP DETAILS
 
-        SWAGGER_ROUTE: Joi.string().default('/api-docs').required(),
+        SWAGGER_ROUTE: Joi.string().default('/api').required(),
         SWAGGER_PASSWORD: Joi.string().default('admin').required(),
-        APP_NAME: Joi.string().default('MyApp').required(),
+        APP_NAME: Joi.string().default('app').required(),
       }),
     }),
   ],
