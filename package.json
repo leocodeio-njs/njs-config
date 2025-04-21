@@ -1,6 +1,6 @@
 {
   "name": "@leocodeio-njs/njs-config",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "basic config module for nestjs",
   "author": "leocodeio",
   "license": "MIT",

@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/leocodeio-njs/njs-config/compare/v1.0.8...v1.0.9) (2025-04-21)
+
+
+### Performance Improvements
+
+* **added variables:** added variables ([770e528](https://github.com/leocodeio-njs/njs-config/commit/770e5288ea0b547bd3480af5a31309b4c4819e12))
+
 ## [1.0.8](https://github.com/leocodeio-njs/njs-config/compare/v1.0.7...v1.0.8) (2025-04-21)
 
 
