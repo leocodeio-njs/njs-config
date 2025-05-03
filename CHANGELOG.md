@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/leocodeio-njs/njs-config/compare/v1.0.10...v1.0.11) (2025-05-03)
+
+
+### Performance Improvements
+
+* **version comapt:** version comapt ([7ab95ac](https://github.com/leocodeio-njs/njs-config/commit/7ab95accd4db3f0fca77cd8795084022826a1b7a))
+
 ## [1.0.10](https://github.com/leocodeio-njs/njs-config/compare/v1.0.9...v1.0.10) (2025-04-21)
 
 
