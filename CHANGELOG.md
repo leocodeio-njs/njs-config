@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/leocodeio-njs/njs-config/compare/v1.0.15...v1.0.16) (2025-05-04)
+
+
+### Bug Fixes
+
+* **build cmd:** build cmd ([9dff2b0](https://github.com/leocodeio-njs/njs-config/commit/9dff2b0364c9f99f12e6fd554ea2e61f8685de47))
+
 ## [1.0.15](https://github.com/leocodeio-njs/njs-config/compare/v1.0.14...v1.0.15) (2025-05-04)
 
 
