@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/leocodeio-njs/njs-config/compare/v1.0.13...v1.0.14) (2025-05-04)
+
+
+### Performance Improvements
+
+* **trigger new pakcage:** trigger new pakcage ([d9a26d5](https://github.com/leocodeio-njs/njs-config/commit/d9a26d5c9afea89309f93e3c090909cd6787055a))
+
 ## [1.0.13](https://github.com/leocodeio-njs/njs-config/compare/v1.0.12...v1.0.13) (2025-05-04)
 
 
