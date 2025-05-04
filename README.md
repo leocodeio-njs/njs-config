@@ -11,6 +11,7 @@ To use this package, you need to install the following dependencies:
 - `reflect-metadata`
 - `rxjs`
 
+
 You can install them using your preferred package manager. For example, with pnpm:
 
 ```bash
