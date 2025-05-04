@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/leocodeio-njs/njs-config/compare/v1.0.14...v1.0.15) (2025-05-04)
+
+
+### Performance Improvements
+
+* **revert:** revert ([58dcaf3](https://github.com/leocodeio-njs/njs-config/commit/58dcaf35af567687c42bced887de13733fc5ca32))
+
 ## [1.0.14](https://github.com/leocodeio-njs/njs-config/compare/v1.0.13...v1.0.14) (2025-05-04)
 
 
