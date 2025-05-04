@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NODE_AUTH_TOKEN: ${{ secrets.INTERNAL_GITHUB_SECRET }}  # Correctly set in `env`
+      NODE_AUTH_TOKEN: ${{ secrets.INTERNAL_GITHUB_SECRET }} # Correctly set in `env`
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -22,7 +22,10 @@ jobs:
           scope: '@leocodeio-njs'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+
+      - name: Install rimraf globally
+        run: npm install -g rimraf
 
       - name: Build package
         run: npm run build
@@ -44,7 +47,7 @@ jobs:
       packages: write
       id-token: write
     env:
-      NODE_AUTH_TOKEN: ${{ secrets.INTERNAL_GITHUB_SECRET }}  # Correctly set in `env`
+      NODE_AUTH_TOKEN: ${{ secrets.INTERNAL_GITHUB_SECRET }} # Correctly set in `env`
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -63,7 +66,7 @@ jobs:
           path: dist/
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Configure Git user
         run: |
